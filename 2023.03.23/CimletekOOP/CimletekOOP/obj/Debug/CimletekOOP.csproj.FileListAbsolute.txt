@@ -1,0 +1,8 @@
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\bin\Debug\CimletekOOP.exe.config
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\bin\Debug\CimletekOOP.exe
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\bin\Debug\CimletekOOP.pdb
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\obj\Debug\CimletekOOP.csproj.AssemblyReference.cache
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\obj\Debug\CimletekOOP.csproj.SuggestedBindingRedirects.cache
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\obj\Debug\CimletekOOP.csproj.CoreCompileInputs.cache
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\obj\Debug\CimletekOOP.exe
+D:\KAR\2023.03.23\CimletekOOP\CimletekOOP\obj\Debug\CimletekOOP.pdb
