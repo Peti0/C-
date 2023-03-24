@@ -1,0 +1,8 @@
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\bin\Debug\sokszögek(15).exe.config
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\bin\Debug\sokszögek(15).exe
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\bin\Debug\sokszögek(15).pdb
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\obj\Debug\sokszögek(15).csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\obj\Debug\sokszögek(15).csproj.SuggestedBindingRedirects.cache
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\obj\Debug\sokszögek(15).csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\obj\Debug\sokszögek(15).exe
+C:\Users\losonczi.jozsef\source\repos\sokszögek(15)\sokszögek(15)\obj\Debug\sokszögek(15).pdb
