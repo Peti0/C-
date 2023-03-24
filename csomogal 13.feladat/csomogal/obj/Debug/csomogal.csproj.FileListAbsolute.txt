@@ -1,0 +1,8 @@
+D:\KAR\2023.03.23\csomogal\csomogal\bin\Debug\csomogal.exe.config
+D:\KAR\2023.03.23\csomogal\csomogal\bin\Debug\csomogal.exe
+D:\KAR\2023.03.23\csomogal\csomogal\bin\Debug\csomogal.pdb
+D:\KAR\2023.03.23\csomogal\csomogal\obj\Debug\csomogal.csproj.AssemblyReference.cache
+D:\KAR\2023.03.23\csomogal\csomogal\obj\Debug\csomogal.csproj.SuggestedBindingRedirects.cache
+D:\KAR\2023.03.23\csomogal\csomogal\obj\Debug\csomogal.csproj.CoreCompileInputs.cache
+D:\KAR\2023.03.23\csomogal\csomogal\obj\Debug\csomogal.exe
+D:\KAR\2023.03.23\csomogal\csomogal\obj\Debug\csomogal.pdb

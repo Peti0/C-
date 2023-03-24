@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csomogal", "csomogal\csomogal.csproj", "{5EF8DBDA-67C3-413E-97F8-AACA46FDFAA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF8DBDA-67C3-413E-97F8-AACA46FDFAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF8DBDA-67C3-413E-97F8-AACA46FDFAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF8DBDA-67C3-413E-97F8-AACA46FDFAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF8DBDA-67C3-413E-97F8-AACA46FDFAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D9F6C6-4DEC-49F4-8E32-B83664DB3367}
+	EndGlobalSection
+EndGlobal
