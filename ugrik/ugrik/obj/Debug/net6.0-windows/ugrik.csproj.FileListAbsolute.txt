@@ -1,0 +1,17 @@
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\bin\Debug\net6.0-windows\ugrik.exe
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\bin\Debug\net6.0-windows\ugrik.deps.json
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\bin\Debug\net6.0-windows\ugrik.runtimeconfig.json
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\bin\Debug\net6.0-windows\ugrik.dll
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\bin\Debug\net6.0-windows\ugrik.pdb
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.csproj.AssemblyReference.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.Formugras.resources
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.csproj.GenerateResource.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.AssemblyInfoInputs.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.AssemblyInfo.cs
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.csproj.CoreCompileInputs.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.dll
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\refint\ugrik.dll
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.pdb
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ugrik.genruntimeconfig.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\ugrik\ugrik\obj\Debug\net6.0-windows\ref\ugrik.dll

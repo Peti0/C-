@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ugrik", "ugrik\ugrik.csproj", "{1EC6D17A-D683-4FAA-9178-AD046C98B760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.2 igazitas", "..\18.2 igazitas\18.2 igazitas.csproj", "{2E31B12B-1274-4FB7-9598-FBA43CB69445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC6D17A-D683-4FAA-9178-AD046C98B760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC6D17A-D683-4FAA-9178-AD046C98B760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC6D17A-D683-4FAA-9178-AD046C98B760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC6D17A-D683-4FAA-9178-AD046C98B760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E31B12B-1274-4FB7-9598-FBA43CB69445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E31B12B-1274-4FB7-9598-FBA43CB69445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E31B12B-1274-4FB7-9598-FBA43CB69445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E31B12B-1274-4FB7-9598-FBA43CB69445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0892C458-6961-4CE2-B55E-549579B3602B}
+	EndGlobalSection
+EndGlobal
