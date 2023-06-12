@@ -1,0 +1,7 @@
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\18.2 igazitas.csproj.AssemblyReference.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\_18._2_igazitas.Form1.resources
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\18.2 igazitas.csproj.GenerateResource.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\18.2 igazitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\18.2 igazitas.AssemblyInfoInputs.cache
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\18.2 igazitas.AssemblyInfo.cs
+C:\Users\szegedi.peter\Documents\KAR\feladat\18.2 igazitas\obj\Debug\net6.0-windows\18.2 igazitas.csproj.CoreCompileInputs.cache
